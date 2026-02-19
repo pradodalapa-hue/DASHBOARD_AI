@@ -1,22 +1,29 @@
 {
-  "name": "SISTEMA J.D.P.L - ENGENHARIA DASHBOARD AI",
-  "short_name": "SISTEMA J.D.P.L",
-  "description": "Sistema J.D.P.L",
-  "start_url": "./index.html",
+  "name": "SISTEMA J.D.P.L - DASHBOARD AI",
+  "short_name": "PainelEngenharia",
+  "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#ffb300",
+  "background_color": "#000000",
   "theme_color": "#ffb300",
   "icons": [
     {
-      "src": "./icon-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "./icon-512x512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
+
