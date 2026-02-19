@@ -1,6 +1,6 @@
 {
-  "name": "SISTEMA J.D.P.L - ENGENHARIA",
-  "short_name": "DASHBOARD AI",
+  "name": "SISTEMA J.D.P.L - ENGENHARIA DASHBOARD AI",
+  "short_name": "SISTEMA J.D.P.L",
   "description": "Sistema de Controle Industrial JDP SUPREME KERNEL v13.5.",
   "start_url": "./index.html",
   "display": "standalone",
