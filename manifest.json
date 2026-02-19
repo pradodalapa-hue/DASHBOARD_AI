@@ -1,10 +1,10 @@
 {
   "name": "SISTEMA J.D.P.L - ENGENHARIA DASHBOARD AI",
   "short_name": "SISTEMA J.D.P.L",
-  "description": "Sistema de Controle Industrial JDP SUPREME KERNEL v13.5.",
+  "description": "Sistema J.D.P.L",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#000000",
+  "background_color": "#ffb300",
   "theme_color": "#ffb300",
   "icons": [
     {
