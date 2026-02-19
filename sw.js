@@ -1,4 +1,4 @@
-const cacheName = 'DASHBOARD AI';
+const cacheName = 'SISTEMA J.D.P.L - ENGENHARIA':
 const assets = [
   './',
   './index.html',
